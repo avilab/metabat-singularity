@@ -3,10 +3,14 @@
 [MetaBat metagenome binning tool](https://bitbucket.org/berkeleylab/metabat/src/master/) singularity image.
 
 
+## Pull image
+
 Pull image from Singularity Hub
 ```
 singularity pull --name metabat.simg shub://avilab/metabat-singularity
 ```
+
+## Usage
 
 Run metabat
 ```
