@@ -1,3 +1,6 @@
+
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/3224)
+
 # MetaBat singularity image
 
 [MetaBat metagenome binning tool](https://bitbucket.org/berkeleylab/metabat/src/master/) singularity image.
